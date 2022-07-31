@@ -1,6 +1,6 @@
 - Tic-Tac-Toe game is my first frontend project :hatching_chick:
 - was built with HTML, CSS and JavaScript :muscle:
 - source code wasn't change :baby:
-- design inspired by [Tron: Legacy](https://www.imdb.com/title/tt1104001/) movie :motorcycle:
+- design inspired by movie: [Tron: Legacy](https://www.imdb.com/title/tt1104001/) :motorcycle:
 - just love it :blue_heart:
 - [link to the project](https://celebrated-speculoos-2d5b5c.netlify.app)
