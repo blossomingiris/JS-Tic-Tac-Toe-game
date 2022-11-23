@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/102720711/203524616-7bc29824-6b48-42a4-be24-17cf880fa9c2.png" width="400" height="400" align="right" /> 
+<img src="https://user-images.githubusercontent.com/102720711/203524616-7bc29824-6b48-42a4-be24-17cf880fa9c2.png" width="450" height="400" align="right" /> 
 
 ## Tic-Tac-Toe (JS) 🚀
 
