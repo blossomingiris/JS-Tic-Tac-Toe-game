@@ -10,5 +10,5 @@
 
 
 ## Note 
-- the source code of this project wasn't change, because i would like to track my progress since. 
+- the source code of this project wasn't change, because i would like to track my progress since 
 - not responsive
