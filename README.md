@@ -2,12 +2,10 @@
 
 ## Tic-Tac-Toe (JS) :x: :o: :x:
 
-- Tic-Tac-Toe game was my first "big" project
+- Tic-Tac-Toe game was my first project
 - built with HTML, CSS and JavaScript
 - design inspired by movie: [Tron: Legacy](https://www.imdb.com/title/tt1104001/) :motorcycle:
-- [link to the project](https://celebrated-speculoos-2d5b5c.netlify.app)
-
-
+- demo is [here](https://celebrated-speculoos-2d5b5c.netlify.app)
 
 ## Note 
 - the source code of this project wasn't change, because i would like to track my progress since 
